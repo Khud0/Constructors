@@ -1,0 +1,10 @@
+C:\Files\C# Projects\ConstructorsSolution\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Files\C# Projects\ConstructorsSolution\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Files\C# Projects\ConstructorsSolution\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Files\C# Projects\ConstructorsSolution\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Files\C# Projects\ConstructorsSolution\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Files\C# Projects\ConstructorsSolution\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Files\C# Projects\ConstructorsSolution\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Files\C# Projects\ConstructorsSolution\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Files\C# Projects\ConstructorsSolution\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Files\C# Projects\ConstructorsSolution\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
