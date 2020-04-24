@@ -8,3 +8,4 @@ C:\Files\C# Projects\ConstructorsSolution\Constructors\obj\Debug\netcoreapp3.1\C
 C:\Files\C# Projects\ConstructorsSolution\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
 C:\Files\C# Projects\ConstructorsSolution\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
 C:\Files\C# Projects\ConstructorsSolution\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Files\C# Projects\ConstructorsSolution\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache

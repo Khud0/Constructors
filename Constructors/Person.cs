@@ -1,21 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Constructors
 {
     class Person
     {
         // Properties
-        public DateTime Birthdate { get; private set; } = DateTime.Now;
-        public string Name { get; set; } = "Default Name";
+        public string Name { get; set; }
+        public DateTime Birthdate { private get; set; }
+        public List<Item> Belongings { get; set; }
 
-        // Constructor
+        // Constructors
+        public Person()
+        {
+            Belongings = new List<Item>();
+        }
         public Person(string name, DateTime birthdate)
+            : this()
         {   
             this.Name = name;
             this.Birthdate = birthdate;          
         }
+        
 
         // Calculated Properties
         public int Age
